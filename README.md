@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Negar Riahi</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
-- 🌱 I’m currently learning **html, css, tailwind, css**
+- 🌱 I’m currently learning **html, css, tailwind, bootstrap**
 
 - 📫 How to reach me **negarrh04@gmail.com**
 
