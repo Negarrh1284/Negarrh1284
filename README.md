@@ -1,13 +1,58 @@
-<h1 align="center">Hi 👋, I'm Negar Riahi</h1>
-<h3 align="center">A passionate frontend developer from Iran</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **html, css, tailwind, bootstrap**
+# Hi 👋, I'm Negar Riahi
 
-- 📫 How to reach me **negarrh04@gmail.com**
+### Front-End Developer | Building My Portfolio 🚀
+
+📍 Mashhad, Iran 🇮🇷
+
+🌱 Currently learning **React**
+
+</div>
+
+## 👩‍💻 About Me
+
+* 🎓 21 years old
+* 💻 Front-End Developer
+* 🚀 Passionate about building responsive and user-friendly web applications
+* 📚 Continuously improving my front-end development skills
+* 🎯 Focused on building a strong portfolio
+* 📫 Reach me at: **[negarrh04@gmail.com](mailto:negarrh04@gmail.com)**
+
+## 🛠️ Skills
+
+* HTML5
+* CSS3
+* Tailwind CSS
+* Bootstrap
+* Git
+* JavaScript
+* TypeScript
+
+## 📚 Currently Learning
+
+* React
+
+## 🛠️ Languages & Tools
 
 <p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## 🎯 Goals
 
+* Build modern and responsive web applications
+* Master React and advanced front-end concepts
+* Learn industry best practices
+* Contribute to open-source projects
+
+---
+
+⭐ Always learning, building, and growing as a developer.
